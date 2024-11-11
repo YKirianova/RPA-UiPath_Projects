@@ -1,18 +1,20 @@
-###UiPath Projects
+# UiPath Projects
+
 This collection of projects showcases automation for various tasks using UiPath, covering data processing, web scraping, PDF handling, and Optical Character Recognition (OCR).
 
-##Project Descriptions
-##Data Capturing Robot
-Automation for data collection on The Automation Challenge website.
+## Project Descriptions
 
-##The Automation Challenge Robot
-A second version of automation for completing tasks on The Automation Challenge.
+### Data Capturing Robot
+Automation for data collection on [The Automation Challenge](https://www.theautomationchallenge.com/) website.
 
-##Real Estate Web Scraping Robot
+### The Automation Challenge Robot
+A second version of automation for completing tasks on [The Automation Challenge](https://www.theautomationchallenge.com/).
+
+### Real Estate Web Scraping Robot
 Robot for scraping real estate data from Zillow.
 
-##PDF Data Scraping Robot
+### PDF Data Scraping Robot
 Tool for extracting data from PDF invoice files.
 
-##Optical Character Recognition (OCR) Robot
+### Optical Character Recognition (OCR) Robot
 Text recognition from scanned receipts using OCR technology.
