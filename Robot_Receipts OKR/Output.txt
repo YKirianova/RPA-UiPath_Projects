@@ -1,0 +1,6 @@
+﻿Receipd ID: 47213577, Receipd Date: 08/09/2022 00:00:00, Sale Amount: 20.89, Sum Amoumt:20.89
+Receipd ID: 58462358, Receipd Date: 08/23/2022 00:00:00, Sale Amount: 79.66, Sum Amoumt:100.55
+Receipd ID: 78496352, Receipd Date: 03/10/2023 00:00:00, Sale Amount: 84.64, Sum Amoumt:185.19
+Receipd ID: 98598969, Receipd Date: 05/16/2023 00:00:00, Sale Amount: 52.64, Sum Amoumt:237.82999999999998
+Receipd ID: 85475826, Receipd Date: 11/23/2023 00:00:00, Sale Amount: 11, Sum Amoumt:248.82999999999998
+Receipd ID: 89658754, Receipd Date: 07/04/2023 00:00:00, Sale Amount: 110.5, Sum Amoumt:359.33
